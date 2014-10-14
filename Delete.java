@@ -13,6 +13,7 @@ public class Delete extends ActionSupport{
 	/**
 	 * 
 	 */
+	 /*system.out("helloworld")*/
 	private static final long serialVersionUID = 1L;
 	private static Connection connection = null;
 	private static Statement statement ;

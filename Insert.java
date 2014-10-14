@@ -9,7 +9,7 @@ public class Insert extends ActionSupport{
 	private String Publisher;
 	private String PublishDate;
 	private String Price;
-
+     /*system.out("helloworld")*/
 	public String getISBN()
 	{
 	return this.ISBN;
